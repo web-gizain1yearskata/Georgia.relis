@@ -1,0 +1,350 @@
+body {
+    
+    background-color:black	;
+
+}
+
+
+
+nav{
+   
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+    
+   
+
+    
+}
+
+
+.navig{
+    text-decoration: none;
+    color: white;
+    font-size: 27px;
+    padding: 10px auto;
+    opacity: 0.94;
+    letter-spacing: 1px;
+  
+
+}
+
+.navig:hover{
+    color: #e0b507	;
+    transition: 1s color linear;
+   
+}
+
+
+.geo{
+    
+    position: relative;
+    color: white;   
+    top: -470px;
+    text-align: center;
+    letter-spacing: 35px;
+    font-size: 55px;
+    text-shadow: 2px 1px 2px rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.room1, .room2, .room4 , .room6{
+    border-bottom:7px solid  rgb(255, 187, 0);
+
+}
+
+h2{
+  color: white;
+  text-align: left;
+  font-size: 50px;
+  margin: 0px;
+}
+.room1{
+    font-size: 60px;
+}
+
+.fdjvjdfbjjbbbsjsnj{
+  position: relative;
+  top:45px;
+  letter-spacing: 15px;
+}
+.top{
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+
+.topfood1{
+    display: flex;
+    justify-content: center;
+  
+
+     
+}
+.topfood2{
+    display: flex;
+    justify-content: center;
+    
+   
+     
+}
+
+.topfoodart{
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+.topfoodart img:hover{
+  margin: 20px;
+  box-shadow: 0px 0px 58px 9px rgba(201,187,8,0.72);
+}
+.topfoodart45 img:hover{
+  margin: 20px;
+  margin-top: 60px;
+  box-shadow: 0px 0px 58px 9px rgba(201,187,8,0.72);
+}
+.topfoodart45{
+    margin-left: 30px;
+    margin-right: 30px;
+    position: relative;
+    top:-100px;
+}
+.topfoodart p{
+    font-size: 17px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+   
+    position: relative;
+    top:-15px;
+    padding: 5px;
+}
+
+.ehf{
+  background-color: rgb(181, 9, 9);
+}
+.ehff1{
+  background-color: #036b38;
+}
+.ehff{
+  background-color: #68089f;
+}
+
+.ehff3{
+  background-color: #790c73;
+}
+
+.ehff2{
+  background-color: #db8608;
+}
+.topfoodart45 p{
+    font-size: 17px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    background-color: rgb(158, 18, 95);
+    position: relative;
+    top:-15px;
+    padding: 1px;
+
+}
+
+
+
+.room2{
+    font-size: 60px;
+    text-align: left;
+
+}
+.ll2 p{
+  color: white;
+  font-size: 35px;
+
+}
+.ll2 a{
+  color: white;
+}
+.love{
+  background-color: #6d0868;
+  color: white;
+}
+
+.eeee{
+  color:white;
+}
+
+
+.container {
+    display: flex;
+    justify-content: left;
+    margin-top: 80px;
+    
+}
+
+.container p {
+   color: white;
+}
+
+.gallery {
+  display: flex;
+  width:1110px;
+  flex-wrap: wrap;
+  margin: 0px;
+ 
+}
+
+.gallery img{
+  margin: 0px;
+  padding:0px auto;
+  opacity: 0.35;
+
+}
+
+.gallery p{
+  position: absolute;
+  top: 10px;
+  left: -125px;
+  font-size: 28px;
+  font-weight: 900 ;
+  display: block;
+
+}
+
+
+.gallery img:hover {
+  opacity: 1;
+  margin: 30px;
+  box-shadow: 0px 0px 58px 9px rgba(201,187,8,0.72);
+
+
+}
+
+
+
+.container2{
+  float: right;
+  color: white;
+
+}
+
+.cont2{
+  position: relative;
+  top:-620px;
+  right: 150px;
+}
+.cont2 p{
+  font-size: 27px;
+}
+.cont2 li{
+  font-size: 30px;
+  font-weight:bolder;
+ 
+}
+.room6{
+ padding-top: 35px;
+}
+
+.room4{
+  margin-top: 35px;
+}
+.okkk{
+  color: white;
+  font-size: 25px;
+}
+.okk{
+  color: white;
+  font-size: 25px;
+}
+.ok{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+ 
+}
+.school1{
+  background-color: rgb(229, 30, 30);
+}
+.ctrela{
+  position: relative;
+  left: 270px;
+  top: 60px;
+  
+}
+span{
+  background-color: rgb(244, 170, 11);
+}
+
+
+footer{
+  background-color: #025167;
+}
+
+
+.fot{
+  position: relative;
+  top:0;
+  left: 0px;
+  margin: 20px 20px 20px 20px;
+  
+}
+aside{
+  position: relative;
+  color: white;
+  background: rgb(106, 164, 106);
+  top:-150px;
+
+}
+
+aside p{
+  font-size: 25px;
+  text-align: center;
+}
+.rhrh{
+  padding-top: 25px;
+
+
+}
+.fond{
+  position: relative;
+  background-image: linear-gradient(purple, rgb(199, 61, 114), rgb(173, 41, 173));
+  border-radius: 4px;
+  box-shadow: 0px -1px 22px 9px rgba(248,0,248,0.53);
+  width: 332px;
+  top:-250px;
+  left: 630px;
+  margin: 20px ;
+ 
+}
+.fond:hover{
+  font-size: 30px;
+}
+
+
+.school{
+  background-color: rgb(123, 0, 123);
+}
+
+.promo{
+  background-color: rgb(179, 11, 160);
+}
+
+.nomer{
+  position: relative;
+  top:-240px;
+  right: 40px;
+  float: right;
+  color:rgb(12, 12, 74);
+  font-size: 20px;
+  border-radius: 7px;
+  background-image: linear-gradient(rgb(116, 207, 116), rgb(207, 116, 207));
+  border:5px inset rgb(146, 10, 114);
+  box-shadow: 11px 7px 22px 3px rgba(129, 147, 238, 0.75);
+
+}
+.room5{
+  font-size: 30px;
+}
+.ojggg{
+  color:white;
+  font-size:25px;
+}
